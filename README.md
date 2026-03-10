@@ -1,8 +1,31 @@
 # ECO6362 Final Project
 
-- Course Information: Economic Growth
-- Instructor: Omer Ozak
-- Participants: Furong Guo, Zhixi Song
+**Course:** Economic Growth (ECO6362)  
+**Instructor:** Omer Ozak  
+**Participants:** Furong Guo, Zhixi Song  
 
-According to Course requirement, we used Deepnote as Coding and Presenting platform. To have better viewing experience, we suggest using Chrome browsers.
-Published App: [https://deepnote.com/publish/Intro-Data-Analysis-Pandas-Exercises-d2c3734c-6a33-4d7f-b031-48173e2358e0](https://deepnote.com/publish/ECO6362FinalProject-8f94d43b-7c7c-484a-8fa9-1811dba92404)https://deepnote.com/publish/ECO6362FinalProject-8f94d43b-7c7c-484a-8fa9-1811dba92404
+## Overview
+This project analyzes the relationship between female labor force participation, economic development, and health expenditure using World Bank data.
+
+The analysis includes:
+- Data collection from the World Bank API
+- Data cleaning and merging
+- Exploratory analysis
+- OLS regressions by income group
+
+## Repository Structure
+docs/ # Final paper and proposal
+notebook/ # Main analysis notebook
+pyproject.toml # Python environment configuration
+
+## Running the Code
+The analysis is conducted in a Jupyter notebook.  
+To reproduce the results, open: notebook/gender_disparity.ipynb 
+and run the cells sequentially.
+
+## Deepnote Version
+
+According to the course requirement, the project was originally developed and presented using **Deepnote**.
+
+Published version:
+https://deepnote.com/publish/ECO6362FinalProject-8f94d43b-7c7c-484a-8fa9-1811dba92404
