@@ -1,0 +1,11 @@
+# python environment
+.venv/
+
+# python cache
+__pycache__/
+
+# jupyter
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
