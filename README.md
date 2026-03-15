@@ -14,9 +14,11 @@ The analysis includes:
 - OLS regressions by income group
 
 ## Repository Structure
-docs/ # Final paper and proposal
-notebook/ # Main analysis notebook
-pyproject.toml # Python environment configuration
+| Directory   | Description                                   |
+|-------------|-----------------------------------------------|
+| `data/`     | Raw datasets fetched from API                 |
+| `graphs/`   | Generated figures                             |
+| `notebook/` | Analysis notebooks                            |
 
 ## Running the Code
 The analysis is conducted in a Jupyter notebook.  
